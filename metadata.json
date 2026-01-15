@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Bedrock Addon Translator",
+  "description": "An AI-powered translation tool for Minecraft Bedrock addons (.mcpack, .mcaddon, .zip). It automatically extracts files, translates them into multiple languages using Gemini, and maintains technical integrity while providing natural, human-like translations.",
+  "requestFramePermissions": []
+}
